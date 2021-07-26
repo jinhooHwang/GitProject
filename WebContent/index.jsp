@@ -19,7 +19,10 @@
 	<p>2. reverse commit - 이전 버전으로 되돌린 내용으로 새로 커밋</p>
 	<p>불필요한 내용 추가</p>
 
-	
-	
+	<p>신규 개발이 이루어지는 중입니다.</p>
+	<ul>
+		<li>master</li>
+		<li>O 신규 개발</li>
+	</ul>	
 </body>
 </html>
